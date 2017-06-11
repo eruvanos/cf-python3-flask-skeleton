@@ -1,0 +1,11 @@
+.idea
+*.iml
+
+.env/
+.venv/
+env/
+venv/
+
+__pycache__
+
+.DS_Store

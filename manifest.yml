@@ -1,0 +1,4 @@
+---
+applications:
+- name: exampleapp
+  buildpack: python_buildpack
